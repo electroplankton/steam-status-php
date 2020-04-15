@@ -3,7 +3,7 @@ header('content-type: image/png');
 
 $str_input=$_GET['profiles'];
 
-$str_api_key='F1C2C8CBDADA46D5DBD9FAA7019BEB1F';
+$str_api_key='put ur api kee here phag';
 
 $str_res_dir='./resources/';
 
